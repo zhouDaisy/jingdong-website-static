@@ -834,11 +834,19 @@ height: 57px;
       }
        #listsan .chanpin1 img{
         width:219px;
-        height: 157px;
+        height: 164px;
       }
+       #listsan .chanpin1{
+        width:219px;
+        height: 164px;
+       }
+       #listsi .chanpin1{
+        width:219px;
+        height: 164px;
+       }
        #listsi .chanpin1 img{
         width:219px;
-        height: 157px;
+       height: 164px;
       }
      .clothes-content .list{
       float:left;
