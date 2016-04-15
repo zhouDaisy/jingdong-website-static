@@ -673,7 +673,10 @@ height: 57px;
 .has-right a img{
   padding:15 10px;
 }
-
+.has-right .has-logo{
+  width:170px;
+  height: 57px;
+}
 .hasfooter img{
  padding-left:75px; 
  margin-top:110px;
